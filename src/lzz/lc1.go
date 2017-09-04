@@ -14,7 +14,8 @@ import (
   
 func main() {
 	//insert()
-  search()
+ // search()
+  fmt.Println("lzz and qiqi")
 
 }
 
