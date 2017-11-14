@@ -17,6 +17,7 @@ func main() {
  // search()
   fmt.Println("lzz and qiqi")
   fmt.Println("I Love My Family!")
+  fmt.Println("I Love coco!")
 }
 
 
