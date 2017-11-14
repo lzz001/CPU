@@ -18,6 +18,8 @@ func main() {
   fmt.Println("lzz and qiqi")
   fmt.Println("I Love My Family!")
   fmt.Println("I Love coco!")
+  
+  fmt.Println("I Love tags!")
 }
 
 
